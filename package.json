@@ -8,7 +8,15 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "node-sass": "^5.0.0",
+    "normalize.css": "^8.0.1",
+    "sass-loader": "^10.1.1",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.0",
+    "vue-template-compiler": "^2.6.12",
+    "vux": "^2.9.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
